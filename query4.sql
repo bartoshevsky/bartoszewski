@@ -1,0 +1,1 @@
+SELECT nazwa FROM akcesoria WHERE cena BETWEEN 30 AND 100

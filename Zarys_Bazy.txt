@@ -1,0 +1,37 @@
+Baza sklep
+Baza danych sklepu muzycznego. Są w nim sprzedawane instrumenty, oraz akcesoria do nich. Baza zawiera spis produktów, pracowników, producentów sprzętu, spis akcesoriów, oraz listę placówek.
+
+
+
+
+Tabela 1, pracownicy:
+    ID,
+    Imie,
+    Wiek,
+    Placowka,
+    
+Tabela 2, Produkty:
+    ID,
+    Producent,
+    Model,
+    Rodzaj,
+    Cena,
+    Placowka
+    
+Tabela 3, Producenci:
+    ID,
+    Nazwa,
+    Adres_internetowy,
+    Rodzaj_produktów
+    
+Tabela 4, Akcesoria:
+    ID,
+    Nazwa,
+    Rodzaj_instrumentu,
+    Cena
+    
+Tabela 5, Placowki:
+    ID,
+    Miasto,
+    Rodzaj
+    

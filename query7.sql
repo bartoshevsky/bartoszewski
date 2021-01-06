@@ -1,0 +1,1 @@
+SELECT model FROM produkty WHERE producent = 2

@@ -1,0 +1,1 @@
+SELECT ID_pracownika, imie FROM pracownicy WHERE ID_placowki = 1

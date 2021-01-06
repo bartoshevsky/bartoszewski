@@ -1,0 +1,1 @@
+SELECT pracownicy.imie FROM pracownicy WHERE wiek < 18

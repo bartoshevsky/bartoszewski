@@ -1,0 +1,1 @@
+SELECT * FROM produkty WHERE rodzaj='gitara' AND cena <= 3000

@@ -1,0 +1,1 @@
+SELECT pracownicy.imie, pracownicy.wiek, placowki.miasto FROM pracownicy LEFT JOIN placowki ON pracownicy.ID_placowki = placowki.ID

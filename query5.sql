@@ -1,0 +1,1 @@
+SELECT nazwa FROM producenci WHERE rodzaj_produktow = 'wzmacniacze'

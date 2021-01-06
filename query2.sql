@@ -1,0 +1,1 @@
+SELECT * FROM sklep.pracownicy INNER JOIN sklep.placowki ON sklep.placowki.ID = sklep.pracownicy.ID_placowki

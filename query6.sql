@@ -1,0 +1,1 @@
+SELECT * FROM sklep.produkty INNER JOIN sklep.placowki ON sklep.placowki.ID = sklep.produkty.ID_placowki WHERE sklep.placowki.rodzaj = 'magazyn'

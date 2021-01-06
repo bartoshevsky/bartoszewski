@@ -1,0 +1,1 @@
+SELECT rodzaj FROM placowki WHERE miasto = 'Olsztyn'
